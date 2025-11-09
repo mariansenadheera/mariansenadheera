@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I’m Marian :)
 
-<!--
-**mariansenadheera/mariansenadheera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer & Data Science Enthusiast**  
+I design and build modern web and mobile applications using **Java**, **Spring Boot**, **React (Vite)**, and **SQLite/MySQL**.  
+I also create responsive **landing pages** with **React** and **Tailwind CSS**.  
 
-Here are some ideas to get you started:
+🚀 Open to **internships** and **junior full-stack developer** opportunities.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 Featured Projects
+- **[breathmate]** — A wristband control app built with **Flutter**, featuring BLE connectivity and real-time health monitoring.  
+- **[hospital-management]** — A **Spring Boot + React** system for hospital operations with secure, role-based access control.  
+
+---
+
+## 🛠️ Tech Stack
+**Languages & Frameworks:** Java, Spring Boot, React, Flutter, Python  
+**Databases:** SQLite, MySQL  
+**Tools & DevOps:** Git, Docker, CI/CD, Vite, Tailwind CSS  
+
+---
+
+## 📫 Connect with Me
+[LinkedIn](https://linkedin.com/in/marian-senadheera) • 📧 **mariansenadheera@gmail.com**
+
+---
+> 💡 *Always learning, building, and exploring new technologies.*
+
+

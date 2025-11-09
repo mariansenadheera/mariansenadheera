@@ -1,6 +1,7 @@
 # Hi, I’m Marian
 
-**Software engineer & data-science enthusiast.** I build web & mobile apps using Java, Spring Boot, React (Vite) and SQLite/MySQL.   
+**Software Engineer & Data Science Enthusiast**  
+I build web & mobile apps using Java, Spring Boot, React (Vite) and SQLite/MySQL.   
 I also create responsive **landing pages** with **React** and **Tailwind CSS**.  
 
 🚀 Open to **internships** and **junior full-stack developer** opportunities.  
